@@ -1,9 +1,9 @@
-# Data-Engineer Portfolio
-### Data-Engineering 직무 포트폴리오입니다 :)
+# Data-Scientist Portfolio
+### Data-Science 직무 포트폴리오입니다 :)
 
 #### *링크는 PDF에서 작동합니다.
 
-![슬라이드1](https://github.com/user-attachments/assets/97a98bdd-13f0-4681-aa5d-7d0d649dbd66)
+![슬라이드1](https://github.com/user-attachments/assets/e1f63742-5506-4518-9591-bb341c59f63f)
 
 
 ![슬라이드2](https://github.com/user-attachments/assets/940eb6eb-7762-4077-b959-2ba4981710ee)
